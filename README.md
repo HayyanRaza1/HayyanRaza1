@@ -1,6 +1,6 @@
-👋 Hi, I’m @HayyanRaza1
-👀 I’m interested in Coding, Game Development, and Web Frontend Design
-🌱 I’m currently learning Java and expanding my expertise in various technologies
+👋 Hi, I’m @HayyanRaza1.
+👀 I’m interested in Coding, Game Development, and Web Frontend Design.
+🌱 I’m currently learning Java and expanding my expertise in various technologies.
 💻 Skilled in:
 Unity Game Development (C#)
 Web Frontend (HTML, CSS, JavaScript)
